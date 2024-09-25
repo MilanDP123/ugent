@@ -1,0 +1,21 @@
+Maximizer
+
+Velden
+	grootsteGetal (getal)
+	eerste	(getal)
+
+Methoden
+	<constructor>
+		Plaatst de waarde 0 in het veld grootsteGetal
+		Stel eerste gelijk aan 1
+	
+	zetGetal(g)
+		Als eerste gelijk is aan 1,
+		dan	stel grootsteGetal gelijk aan g en stel eerste gelijk aan 0,
+		anders
+		Als 	g groter is dan grootsteGetal,
+		dan	stel grootsteGetal gelijk aan g,
+		anders	doe niets.
+	
+	geefGrootsteGetal()
+		Geef het getal terug dat is opgeslagen in het veld grootsteGetal.

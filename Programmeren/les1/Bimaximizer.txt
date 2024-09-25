@@ -1,0 +1,20 @@
+Bimaximizer
+
+Velden
+	x_co (Maximizer)
+	y_co (Maximizer)
+
+Methoden
+	<contructor>
+		Maak een nieuw Maximizer en plaats een verwijzing ernaar in x_co.
+		Maak een nieuw Maximizer en plaats een verwijzing ernaar in y_co.
+	
+	zetCoordinaat(x, y)
+		Roep zetGetal(x) op bij x_co
+		Roep zetGetal(y) op bij y_co
+
+	geef grootsteX()
+		geef het Resultaat van de methode geefGrootsteGetal() bij x_co
+	
+	geef grootsteY()
+		geef het resultaat van de methode geefGrootsteGetal() bij y_co

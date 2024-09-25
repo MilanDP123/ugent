@@ -1,0 +1,18 @@
+Klokje
+
+methoden
+
+	ontvangPuls()
+		Als geefWaarde() voor sec 0 is en geefWaarde() voor min 0 is
+		dan doe niets
+		anders	Als geefWaarde() voor sec 0 is
+			Dan roep je zetWaarde(59) op voor sec en verminderMet1() voor min,
+			anders	roep je verminderMet1() op voor sec.
+
+
+
+Schaakklok
+
+methoden
+	stop()
+		stel de waarde van het veld gelijk aan 0.

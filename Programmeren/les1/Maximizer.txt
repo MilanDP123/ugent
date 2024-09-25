@@ -1,0 +1,16 @@
+Maximizer
+
+Velden
+	grootsteGetal (getal)
+
+Methoden
+	<constructor>
+		Plaatst de waarde 0 in het veld grootsteGetal
+	
+	zetGetal(g)
+		Als 	het getal g groter is dan het getal dat opgeslagen staat in het veld grootsteGetal,
+		dan	stop het getal g in het veld grootsteGetal,
+		anders	doe niets.
+	
+	geefGrootsteGetal()
+		Geef het getal terug dat is opgeslagen in het veld grootsteGetal.
