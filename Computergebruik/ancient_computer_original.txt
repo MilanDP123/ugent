@@ -1,0 +1,23 @@
+In 1900, sponge divers were retrieving relics from an ancient Greek shipwreck
+when archaeologist Spyridon Stais noticed a rock with a gear wheel in it. He had
+discovered the Antikythera mechanism, a remarkable clockwork computer that
+modeled the movements of heavenly objects as early as 87 B.C.
+
+Using x-ray analysis, historians of science and technology have studied the
+mechanism closely and devised several working reconstructions. British orrery
+maker John Gleave believes the front dial tracked the sun and moon through the
+zodiac year against the Egyptian calendar. Others believe it modeled the motions
+of the sun, the moon, Mercury, Venus, Mars, Jupiter, and Saturn --- every
+celestial body known to the ancient Greeks.
+
+That last interpretation is significant: In the first century B.C. Cicero had
+written of an instrument "recently constructed by our friend Poseidonius, which
+at each revolution reproduces the same motions of the sun, the moon and the five
+planets." It may have been used to calculate celestial positions at the times of
+certain events or births.
+
+Whatever the details, the device was remarkably sophisticated for its day: Among
+other things, it uses a differential gear, which historians had previously
+thought was invented in the 16th century. Complex Greek creations like this may
+have passed through the Arab world and eventually informed European clockmaking.
+What other ancient technology has been lost?
