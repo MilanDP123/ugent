@@ -4,7 +4,7 @@
 unzip -l file.zip
 
 ### command 2 ###
-zip -r file.zip -r subtitles 
+zip file.zip subtitles 
 zip file.zip names.txt
 
 ### command 3 ###
