@@ -1,4 +1,4 @@
-Maximizer
+Maximizer 2
 
 Velden
 	grootsteGetal (getal)

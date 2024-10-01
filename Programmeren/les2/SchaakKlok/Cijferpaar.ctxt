@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cijferpaar
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cijferpaar\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Cijferpaar()
+comment2.params=
+comment2.target=int\ geefWaarde()
+comment3.params=w
+comment3.target=void\ zetWaarde(int)
+comment4.params=
+comment4.target=void\ verminderMet1()
+comment5.params=
+comment5.target=java.lang.String\ geefTijd()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bimaximizer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bimaximizer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Bimaximizer()
+comment2.params=x\ y
+comment2.target=void\ aanbieden(int,\ int)
+comment3.params=
+comment3.target=int\ opvragenX()
+comment4.params=
+comment4.target=int\ opvragenY()
+numComments=5
