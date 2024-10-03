@@ -10,10 +10,15 @@ public class Vleermuis extends Actor
 {
     private int vel;
     
+    /**
+     * Constructor van de klasse Vleermuis.
+     */
     public Vleermuis()
     {
+        super();
         vel = 5;
     }
+    
     /**
      * Act - do whatever the Vleermuis wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
@@ -31,7 +36,7 @@ public class Vleermuis extends Actor
             setImage("vleermuis2.png");
         }
         
-        if (isTouching(Stekel.class))
+        if (isTouching(Stekel.class) || getY() <= 20 || getY() >=373)
         {
             sterf();
         }
@@ -40,22 +45,12 @@ public class Vleermuis extends Actor
     private void stijg()
     {
         setLocation(getX(), getY() - 15);
-        
-        if (getX() <= 20)
-        {
-            sterf();
-        }
     }
     
     private void val()
     {
         setLocation(getX(), getY() + vel);
         vel += 5;
-        
-        if (getY() >= 373)
-        {
-            sterf();
-        }
     }
     
     private void sterf()
