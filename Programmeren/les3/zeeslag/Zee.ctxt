@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Zee
+comment0.text=\n\ Write\ a\ description\ of\ class\ Zee\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=rijen\ kolommen
+comment1.target=Zee(int,\ int)
+comment2.params=
+comment2.target=int\ aantalBoten()
+comment3.params=x\ y
+comment3.target=boolean\ isRaak(int,\ int)
+comment4.params=boot
+comment4.target=boolean\ overlaptBoot(Boot)
+comment5.params=boot
+comment5.target=boolean\ pastInZee(Boot)
+comment6.params=boot
+comment6.target=void\ voegBootToe(Boot)
+numComments=7

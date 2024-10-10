@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Boot
+comment0.text=\n\ Write\ a\ description\ of\ class\ Boot\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ orientatie\ aantalVakjes
+comment1.target=Boot(int,\ int,\ java.lang.String,\ int)
+comment2.params=x\ y
+comment2.target=boolean\ isRaak(int,\ int)
+comment3.params=boot
+comment3.target=boolean\ overlaptBoot(Boot)
+comment4.params=xMax\ yMax
+comment4.target=boolean\ pastInZee(int,\ int)
+numComments=5
