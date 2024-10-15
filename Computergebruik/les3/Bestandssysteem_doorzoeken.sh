@@ -13,5 +13,5 @@ find -size +10k -exec gzip {} \;
 find  -type d -not -path "*/music/*" -print
 
 ### command 5 ###
-find /etc -type f -perm -o=x -regex '.*/[0-9][^/]*' -o -regex '.*[0-9]$' 2>/dev/null
+find /etc -perm /o=x \( -name '[0-9]*' -o -name '*[0-9]' \) 2>/dev/null
 

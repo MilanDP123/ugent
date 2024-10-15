@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Moeder
+comment0.text=\n\ Write\ a\ description\ of\ class\ Moeder\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=moeder
+comment1.target=Moeder(Grootmoeder)
+comment2.params=
+comment2.target=java.lang.String\ geefFamilienaam()
+numComments=3

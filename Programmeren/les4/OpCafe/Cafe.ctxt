@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cafe
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cafe\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Cafe()
+comment2.params=bier
+comment2.target=void\ voegBierToe(Bier)
+comment3.params=
+comment3.target=void\ drankLijst()
+comment4.params=startletter
+comment4.target=void\ beperkteLijst(java.lang.String)
+comment5.params=alcoholpercentage
+comment5.target=java.util.ArrayList\ zwareBieren(double)
+comment6.params=stad
+comment6.target=Bier\ stadsbier(java.lang.String)
+numComments=7

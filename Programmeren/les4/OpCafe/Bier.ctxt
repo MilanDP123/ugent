@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bier
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bier\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=naam\ alcoholpercentage\ stad
+comment1.target=Bier(java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNaam()
+comment3.params=
+comment3.target=double\ getAlcoholpercentage()
+comment4.params=
+comment4.target=java.lang.String\ getStad()
+comment5.params=
+comment5.target=void\ print()
+numComments=6
