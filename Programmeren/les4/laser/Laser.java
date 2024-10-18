@@ -1,4 +1,3 @@
-
 /**
  * Write a description of class Laser here.
  *
@@ -7,8 +6,6 @@
  */
 public class Laser
 {
-    private int x;
-    private int y;
     private int width;
     private int height;
     private int horHits;
@@ -16,8 +13,6 @@ public class Laser
     
     public Laser()
     {
-        x = 0;
-        y = 0;
         width = 0;
         height = 0;
         horHits = 0;
@@ -39,9 +34,7 @@ public class Laser
     
     private int ggd(int a, int b)
     {
-        if (b == 0) return a;
-        
-        return ggd(b, a%b);
+        return b == 0 ? a : ggd(b, a%b);
     }
     
     public int getHits()

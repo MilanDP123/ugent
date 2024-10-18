@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lotto
+comment0.text=\n\ Write\ a\ description\ of\ class\ Lotto\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n\ m
+comment1.target=Lotto(int,\ int)
+comment2.params=k\ i
+comment2.target=int\ binom(int,\ int)
+comment3.params=k
+comment3.target=double\ kans(int)
+numComments=4
