@@ -1,0 +1,11 @@
+De query telt hoeveel verschillende klinkers er voor komen in de teamnaam van wielteams die het woord 'team' in hun naam hebben. Het geeft dit terug in twee kolommen, de naam van het team, en het aantal klinkers in de kolom resultaat.
+
+naam    		|resultaat
+------------------------+----------
+Astana Qazaqstan Team 	|2
+Movistar Team		|4
+Team Jayco AlUla	|4
+Team Visma Lease a Bike	|3
+Flanders-Baloise-Team	|4
+Team Novo Nordisk	|4
+
