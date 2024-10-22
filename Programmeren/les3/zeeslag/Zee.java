@@ -26,28 +26,24 @@ public class Zee
     
     public boolean isRaak(int x, int y)
     {
-        for (Boot b: boten)
+        int index = 0;
+        while (index < boten.size() && !boten.get(index).isRaak(x,y))
         {
-            if (b.isRaak(x,y))
-            {
-                return true;
-            }
+            index++;
         }
         
-        return false;
+        return index < boten.size();
     }
     
     public boolean overlaptBoot(Boot boot)
-    {
-        for (Boot b: boten)
+    {   
+        int index = 0;
+        while (index < boten.size() && !boten.get(index).overlaptBoot(boot))
         {
-            if (b.overlaptBoot(boot))
-            {
-                return true;
-            }
+            index++;
         }
         
-        return false;
+        return index < boten.size();
     }
     
     public boolean pastInZee(Boot boot)

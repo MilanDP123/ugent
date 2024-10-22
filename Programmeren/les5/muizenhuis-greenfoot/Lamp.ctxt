@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lamp
+comment1.params=aan
+comment1.target=Lamp(boolean)
+comment2.params=
+comment2.target=void\ lampAan()
+comment3.params=
+comment3.target=void\ lampUit()
+numComments=4
